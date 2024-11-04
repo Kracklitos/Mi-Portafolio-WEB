@@ -1,10 +1,10 @@
-## ✨ Mi Portafolio - HTML, CSS y JavaScript Puro ✨
+## ✨ Mi Portfolio - HTML, CSS y JavaScript Puro ✨
 
-¡Hola a todos! 👋 Bienvenidos al repositorio de mi portafolio, construido completamente desde cero usando HTML, CSS y JavaScript, sin frameworks, bibliotecas o CDN. 💻
+¡Hola a todos! 👋 Bienvenidos al repositorio de mi portfolio, construido completamente desde cero usando HTML, CSS y JavaScript, sin frameworks, bibliotecas o CDN. 💻
 
 ### ¿Por qué este proyecto?
 
-Porque me gusta el desafío de construir cosas desde la base 💪. Me encanta la flexibilidad que ofrece trabajar con las tecnologías web fundamentales 🧠. Y, por supuesto, me gusta el resultado final: un portafolio único, personalizable y listo para la acción 🚀, que me permite mostrar mi trabajo y habilidades de una manera atractiva y profesional.
+Porque me gusta el desafío de construir cosas desde la base 💪. Me encanta la flexibilidad que ofrece trabajar con las tecnologías web fundamentales 🧠. Y, por supuesto, me gusta el resultado final: un portfolio único, personalizable y listo para la acción 🚀, que me permite mostrar mi trabajo y habilidades de una manera atractiva y profesional.
 
 ### ¿Qué encontraras aquí?
 
